@@ -1,0 +1,10 @@
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\obj\Debug\Tarea_15Juego-3enLineaGrob.csproj.AssemblyReference.cache
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\obj\Debug\Tarea_15Juego_3enLineaGrob.frmJuego.resources
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\obj\Debug\Tarea_15Juego_3enLineaGrob.Properties.Resources.resources
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\obj\Debug\Tarea_15Juego-3enLineaGrob.csproj.GenerateResource.cache
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\obj\Debug\Tarea_15Juego-3enLineaGrob.csproj.CoreCompileInputs.cache
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\bin\Debug\Tarea_15Juego-3enLineaGrob.exe.config
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\bin\Debug\Tarea_15Juego-3enLineaGrob.exe
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\bin\Debug\Tarea_15Juego-3enLineaGrob.pdb
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\obj\Debug\Tarea_15Juego-3enLineaGrob.exe
+C:\Users\User HP\Source\Repos\Tarea_15-s2_Grob-Lucas\Tarea_15Juego-3enLineaGrob\obj\Debug\Tarea_15Juego-3enLineaGrob.pdb
